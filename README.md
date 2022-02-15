@@ -10,4 +10,4 @@
 
 ## 1). 그룹별 실시간 뉴스 
 
-![image](https://user-images.githubusercontent.com/37799491/154068451-dffaba14-98c8-479a-9f13-1777d9d4091b.png)
+![image](https://user-images.githubusercontent.com/37799491/154068627-efa1699d-cd76-4863-abce-02767a1038c0.png)
