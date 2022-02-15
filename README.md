@@ -13,5 +13,17 @@
 ![image](https://user-images.githubusercontent.com/37799491/154068627-efa1699d-cd76-4863-abce-02767a1038c0.png)
 
 
-## 2). 일정관리
+## 2). 업무일정
 ![image](https://user-images.githubusercontent.com/37799491/154069756-f57cefee-2b64-4280-9fa7-d54f12cbf29f.png)
+
+
+## 3). 휴가
+
+
+## 4). 예산관리
+
+
+## 5). 공지사항
+
+
+## 6). 그룹채팅
