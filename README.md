@@ -26,6 +26,8 @@ JTOKEN 을 사용하여 로그인 기능을 구현하였고, 채팅 기능은 �
 - 부서 및 회사 공지사항 
 
 ## 5). 과 내 채팅 기능 
-- 윈도우 버전에만 지원 함
+- 윈도우 어플리케이션 버전에서만 지원하면 서버는 C# SimpleServer로 구현 
 
 
+# 백엔드 개발 Repo
+https://github.com/parkjungsun/rokanews-back
